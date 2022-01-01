@@ -1,3 +1,3 @@
 # Demo 2
 
-some text lol!!!!
+This repo is for testing push/pull command from my VS local machine. 
